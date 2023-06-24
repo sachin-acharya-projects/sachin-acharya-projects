@@ -1,4 +1,4 @@
-# Sachin Acharya
+<h1 style='text-align: center;'>Sachin Acharya</h1>
 
 ## About Me
 Hello, I'm Sachin Acharya, a skilled and experienced developer specializing in web and Android app development. I have a strong passion for creating cross-platform applications using Flutter and React Native. With 6-7 years of experience in the industry, I am well-versed in building robust and scalable solutions.
