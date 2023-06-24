@@ -118,7 +118,5 @@ Let's work together to build innovative and impactful applications!
 
 
 > [acharyaraj71@gmail.com](mailto:acharyaraj71@gmail.com)  
-
 > [www.sachinacharya.cf](https://www.sachinacharya.cf/)  
-
 > [linkedin.com/in/sachin-acharya-projects/](https://www.linkedin.com/in/sachin-acharya-projects/)
