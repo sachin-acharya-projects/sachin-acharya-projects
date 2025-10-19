@@ -215,7 +215,7 @@ Let's work together to build innovative and impactful applications!
 <a href="https://codepen.io/sachin-acharya-projects">
     <img width="45" height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Codepen Icon" />
 </a>
-<a href="https://www.sachinacharya.cf/">
+<a href="https://sachin-acharya.vercel.app/">
     <img width="47" height="47" src="./images/web.png" alt="Web Icon" />
 </a>
 <a href="mailto:acharyaraj71@gmail.com">
@@ -226,7 +226,7 @@ Let's work together to build innovative and impactful applications!
 </a>
 
 > [acharyaraj71@gmail.com](mailto:acharyaraj71@gmail.com)  
-> [www.sachinacharya.cf](https://www.sachinacharya.cf/)  
+> [sachin-acharya.vercel.app](https://sachin-acharya.vercel.app/)  
 > [linkedin.com/in/sachin-acharya-projects/](https://www.linkedin.com/in/sachin-acharya-projects/)
 
 ###
